@@ -38,13 +38,7 @@ flowchart TD
     A3 -- "Supplies Iterated Data" --> A5
 ```
 
-![Building Images](Images/Buildings.png)
-![Building Images](Images/Buildings%20(1).png)
-![Building Images](Images/3.png)
-![Building Images](Images/4.png)
-![Building Images](Images/5.png)
-![Building Images](Images/6.png)
-![Building Images](Images/7.png)
+
 
 
 ## Chapters
@@ -1849,6 +1843,9 @@ if __name__ == '__main__':
 **Explanation:**
 The `test.py` script also starts by parsing options and overriding some for testing. It then creates the `DataLoader` and the `model`, importantly loading the saved weights via `model.setup(opt)`. It initializes an `HTML` object to create an organized report. The `for` loop iterates through each test image, calls `model.set_input()` and `model.test()` to generate an output, and then uses `save_images()` and `webpage.add_images()` to save and display the results.
 
+# Results
+![Building Images](Images/Buildings%20(1).png)
+
 ## Conclusion
 
 You now understand that `train.py` and `test.py` are the essential "main conductors" that orchestrate the entire lifecycle of our project. They bring together everything we've learned – from [Configuration Options](01_configuration_options_.md) to [Neural Network Architectures](02_neural_network_architectures_.md), [Data Loader and Dataset](03_data_loader_and_dataset_.md) to the [Generative Adversarial Network Model](04_generative_adversarial_network_model_.md), and the [Training Progress Visualizer](05_training_progress_visualizer_.md) – into a coherent, manageable workflow for enhancing architectural visualization.
@@ -1884,4 +1881,12 @@ Email: muddassar_ali@gpgcm.edu.pk
 
 Project link: https://github.com/muddassar412/Enhancing-Architectural-Visualisation-through-Generative-Adversarial-Networks
 
-For **DTATSET** you can contact on the given email.
+For **Dataset** you can contact on the given email.
+
+# Dataset
+![Building Images](Images/Buildings.png)
+![Building Images](Images/3.png)
+![Building Images](Images/4.png)
+![Building Images](Images/5.png)
+![Building Images](Images/6.png)
+![Building Images](Images/7.png)
