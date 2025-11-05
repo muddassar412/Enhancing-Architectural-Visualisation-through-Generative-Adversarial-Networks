@@ -1,4 +1,4 @@
-# Tutorial: Enhancing-Architectural-Visualisation-through-Generative-Adversarial-Networks
+# Enhancing-Architectural-Visualisation-through-Generative-Adversarial-Networks
 
 This project focuses on **enhancing architectural visualizations** by employing
 *Generative Adversarial Networks (GANs)*. Its core purpose is to learn from
