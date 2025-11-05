@@ -1842,7 +1842,7 @@ The `test.py` script also starts by parsing options and overriding some for test
 
 ## Conclusion
 
-You've successfully reached the culmination of our tutorial! You now understand that `train.py` and `test.py` are the essential "main conductors" that orchestrate the entire lifecycle of our project. They bring together everything we've learned – from [Configuration Options](01_configuration_options_.md) to [Neural Network Architectures](02_neural_network_architectures_.md), [Data Loader and Dataset](03_data_loader_and_dataset_.md) to the [Generative Adversarial Network Model](04_generative_adversarial_network_model_.md), and the [Training Progress Visualizer](05_training_progress_visualizer_.md) – into a coherent, manageable workflow for enhancing architectural visualization.
+You now understand that `train.py` and `test.py` are the essential "main conductors" that orchestrate the entire lifecycle of our project. They bring together everything we've learned – from [Configuration Options](01_configuration_options_.md) to [Neural Network Architectures](02_neural_network_architectures_.md), [Data Loader and Dataset](03_data_loader_and_dataset_.md) to the [Generative Adversarial Network Model](04_generative_adversarial_network_model_.md), and the [Training Progress Visualizer](05_training_progress_visualizer_.md) – into a coherent, manageable workflow for enhancing architectural visualization.
 
 With this understanding, you are now equipped to run, monitor, and evaluate your own Generative Adversarial Networks, paving the way for creating stunning architectural visuals!
 
