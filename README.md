@@ -38,6 +38,15 @@ flowchart TD
     A3 -- "Supplies Iterated Data" --> A5
 ```
 
+![Building Images]("D:\mphil research\Buildings\Buildings.png")
+
+![Alt text](/Users/username/Pictures/example.png)
+![Alt text](/Users/username/Pictures/example.png)
+![Alt text](/Users/username/Pictures/example.png)
+![Alt text](/Users/username/Pictures/example.png)
+![Alt text](/Users/username/Pictures/example.png)
+
+
 ## Chapters
 
 1. [Configuration Options
