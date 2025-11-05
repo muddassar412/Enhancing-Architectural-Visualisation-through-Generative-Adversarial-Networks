@@ -38,13 +38,13 @@ flowchart TD
     A3 -- "Supplies Iterated Data" --> A5
 ```
 
-![Building Images]("D:\mphil research\Buildings\Buildings.png")
-
-![Alt text](/Users/username/Pictures/example.png)
-![Alt text](/Users/username/Pictures/example.png)
-![Alt text](/Users/username/Pictures/example.png)
-![Alt text](/Users/username/Pictures/example.png)
-![Alt text](/Users/username/Pictures/example.png)
+![Building Images](Images/Buildings.png)
+![Building Images](Images/Buildings%20(1).png)
+![Building Images](Images/3.png)
+![Building Images](Images/4.png)
+![Building Images](Images/5.png)
+![Building Images](Images/6.png)
+![Building Images](Images/7.png)
 
 
 ## Chapters
@@ -1856,3 +1856,32 @@ You now understand that `train.py` and `test.py` are the essential "main conduct
 With this understanding, you are now equipped to run, monitor, and evaluate your own Generative Adversarial Networks, paving the way for creating stunning architectural visuals!
 
 ---
+
+# Contributing
+
+Contributions are welcome! If you’d like to help:
+
+Fork the repository, create a feature branch (git checkout -b feature-name).
+
+Make your changes, commit, and push.
+
+Submit a Pull Request describing your changes.
+
+Please follow the coding style, add tests where relevant, and update documentation.
+
+Issues and suggestions can be raised via the GitHub Issues tab.
+
+# License
+
+This project is licensed under the MIT License — see the LICENSE
+ file for details.
+
+# Contact
+
+Name – **Muddassar Ali**
+
+Email: muddassar_ali@gpgcm.edu.pk
+
+Project link: https://github.com/muddassar412/Enhancing-Architectural-Visualisation-through-Generative-Adversarial-Networks
+
+For **DTATSET** you can contact on the given email.
